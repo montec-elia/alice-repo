@@ -4,3 +4,10 @@ author : "ELia Montecattini"
 format: html
 editor: visual
 ---
+
+```{r}
+library(here)
+here::i_am("draftproject.Rproj")
+```
+
+## first section 
